@@ -5,7 +5,8 @@
     "branch": "ten"
   },
   {
-    "repository": "vendor_xiaomi",
+    "remote":     "github",
+    "repository": "JacobDeepu/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch": "ten"
   }
